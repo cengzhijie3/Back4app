@@ -1,1 +1,1 @@
-FROM docker.io/99320/cloud-app:main
+FROM ghcr.io/eooce/nodejs:main
